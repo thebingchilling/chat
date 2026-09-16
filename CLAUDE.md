@@ -1,6 +1,6 @@
 # chat
 
-> **Code agents (e.g. Claude Code): read this README in full before making
+> **Code agents (e.g. Claude Code): read this file in full before making
 > any changes to this repository.**
 
 ## Purpose
